@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.idea/
+Thumbs.db
+.env
+*.env
+*.log
+venv/
